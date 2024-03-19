@@ -137,7 +137,22 @@
          <li>5. Zdenerwuj bota 😊😊</li>
         </ul>
      </details>
-      <details><summary>Odpowiedź</summary> 
+      <details><summary>Odpowiedź</summary>
+          <details open><summary>1.</summary>
+              <p>Bot udający człowieka to taki program komputerowy, który stara się używać języka i zachowań, które sprawiają wrażenie, że jest człowiekiem. Z kolei bot "asystent, służący" pomaga w różnych zadaniach, przy czym nie próbuje udawać człowieka, tylko działa jako narzędzie do wykonywania konkretnych zadań, takich jak przypominanie o terminach czy udzielanie prostych informacji.</p>
+          </details>
+          <details><summary>2.</summary>
+              <p>ans2</p>
+          </details>
+          <details><summary>3.</summary>
+              <p>ans2</p>
+          </details>
+          <details><summary>4.</summary>
+              <p>ans2</p>
+          </details>
+          <details><summary>5.</summary>
+              <p>ans2</p>
+          </details>
      </details>
    </ul>
 </details>
