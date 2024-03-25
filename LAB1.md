@@ -142,16 +142,37 @@
               <p>Bot udający człowieka to taki program komputerowy, który stara się używać języka i zachowań, które sprawiają wrażenie, że jest człowiekiem. Z kolei bot "asystent, służący" pomaga w różnych zadaniach, przy czym nie próbuje udawać człowieka, tylko działa jako narzędzie do wykonywania konkretnych zadań, takich jak przypominanie o terminach czy udzielanie prostych informacji.</p>
           </details>
           <details><summary>2.</summary>
-              <p>ans2</p>
+              <p></p>
           </details>
           <details><summary>3.</summary>
-              <p>ans2</p>
+              <p>Opowiadanie żartów: Oba boty potrafiły zaprezentować dowcipne odpowiedzi, choć bot udający człowieka wydawał się bardziej elastyczny w tym aspekcie.
+
+Przytaczanie cytatów: Zarówno bot udający człowieka, jak i asystent służący, były w stanie przedstawić znane cytaty, co wskazuje na ich zdolność do przetwarzania informacji.
+
+Nawiązywanie do słów kluczowych: Asystent służący wydawał się bardziej gotowy do natychmiastowego reagowania na konkretne słowa kluczowe i dostosowywania swojej odpowiedzi, podczas gdy bot udający człowieka wymagał bardziej kontekstowej interakcji.
+
+Zadawanie pytań: Obie rodzaje botów były zdolne do zadawania pytań, ale asystent służący wydawał się bardziej skłonny do tego, aby proaktywnie zadać pytania w celu zrozumienia potrzeb użytkownika.
+
+Powracanie do początku wypowiedzi: Żaden z botów nie wykazywał tendencji do powracania do początku wypowiedzi lub sekwencyjnego powtarzania.
+
+Zadawanie pytań powstających z wypowiedzi: Obie formy botów były zdolne do zadawania pytań na podstawie wypowiedzi użytkownika.
+
+Odpowiadanie wymijająco, ogólnikowo: Bot udający człowieka wydawał się bardziej zdolny do dostarczania bardziej szczegółowych odpowiedzi, podczas gdy asystent służący czasami odpowiadał ogólnikowo.
+
+Częsta zmiana tematu rozmowy: Asystent służący wydawał się bardziej elastyczny w zmianie tematu rozmowy, podczas gdy bot udający człowieka był bardziej skłonny do trzymania się jednego wątku.
+
+Problemy z utrzymaniem wątków: Żaden z botów nie wykazywał znaczących problemów z utrzymaniem wątków rozmowy, ale bot udający człowieka mógł czasami trzymać się tematu bardziej niż asystent służący.</p>
           </details>
           <details><summary>4.</summary>
-              <p>ans2</p>
+                  <p>Spodziewalismy sie bardziej chaotycznej konwersacji, a uzyskalismy nudny smalltalk...</p>
+                  ![talk01](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/c7302400-070d-44c4-96b7-04aefc7eb65e)
+                  ![talk02](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/9d8a072c-d8a3-450b-9beb-9e8af691209f)
+                  ![talk03](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/e4202cf8-0d4a-4d3c-9843-260ee0f54c89)
+                  ![talk04](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/e44a6eab-5031-4e19-b2cf-0ff52e89e4ec)
+                  ![talk05](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/d33e7efb-697a-4b39-9e56-664bd30a39e0)
           </details>
           <details><summary>5.</summary>
-              <p>ans2</p>
+              ![image](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/49f0ff1a-86d2-4750-8812-216c8a186eab)
           </details>
      </details>
    </ul>
