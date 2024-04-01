@@ -1,7 +1,8 @@
 <details><summary>Zadanie 1</summary>
     <ul>
-        <details><summary>Treść</summary>
-          ![wssi2_1](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/3edf339a-ceba-4b6b-b05e-1c84d30159a8)
+        <details>
+            <summary>Treść</summary>
+            <img src="https://github.com/sebastiansacharczuk/WSSI/assets/88279205/53b7d687-dd3e-4acf-9ea9-f924b6e94ac8" alt="Image">
         </details>
         <details><summary>Odpowiedź</summary> 
         <details><summary>1.1</summary>
@@ -26,7 +27,7 @@
 <details><summary>Zadanie 2</summary>
     <ul>
         <details><summary>Treść</summary>
-          ![wssi2_2](https://github.com/sebastiansacharczuk/WSSI/assets/88279205/2e955530-ee1d-4249-aafe-431a58640a40)
+          <img src="https://github.com/sebastiansacharczuk/WSSI/assets/88279205/2e955530-ee1d-4249-aafe-431a58640a40" alt="Image">
         </details>
         <details><summary>Odpowiedź</summary> 
           <ul>
