@@ -31,19 +31,69 @@
         </details>
         <details><summary>Odpowiedź</summary> 
           <ul>
-            <p>1. </p>
-            <p>2. </p>
-            <p>3. </p>
-            <p>4. </p>
-            <p>5. </p>
-            <p>6. </p>
-            <p>7. </p>
-            <p>8. </p>
-            <p>9. </p>
-            <p>10. </p>
-            <p>11. </p>
-            <p>12. </p>
-            <p>13. </p>
+            <p>1. kobieta(X) :- \+ mezczyzna(X).</p>
+            <p>2. ojciec(X,Y) :- rodzic(X, Y), mezczyzna(X).</p>
+            <p>3. matka(X,Y) :- rodzic(X, Y), kobieta(X).</p>
+            <p>4. corka(X,Y) :- rodzic(Y, X), kobieta(X).</p>
+            <p>
+                5. brat_rodzony(X,Y) :-<br />
+                mezczyzna(X),<br />
+                rodzic(Z, X), rodzic(Z, Y),<br />
+                rodzic(W, X), rodzic(W, Y),<br />
+                X \= Y, W \= Z.
+            </p>
+            <p>
+                6. brat_przyrodni(X,Y) :-<br />
+    mezczyzna(X),<br />
+    rodzic(Z, X), rodzic(Z, Y),<br />
+    rodzic(W, X), rodzic(V, Y),<br />
+    X \= Y, W \= V, W \= Z, V \= Z.
+            </p>
+            <p>
+                7. kuzyn(X, Y) :-<br />
+                rodzic(Z, X),<br />
+                rodzic(W, Y),<br />
+                rodzic(L, Z), rodzic(L, W),<br />
+                rodzic(M, Z), rodzic(M, W),<br />
+                Z \= W, L \= M.
+            </p>
+            <p>
+                8. dziadek_od_strony_ojca(X, Y) :-<br />
+                rodzic(X, Z), rodzic(Z, Y),<br />
+                mezczyzna(X), mezczyzna(Z).
+            </p>
+            <p>
+                9. dziadek_od_strony_matki(X, Y) :-<br />
+                rodzic(X, Z), rodzic(Z, Y),<br />
+                mezczyzna(X), kobieta(Z).
+            </p>
+            <p>
+                10. dziadek(X, Y) :-<br />
+                mezczyzna(X),<br />
+                rodzic(X, Z),<br />
+                rodzic(Z, Y).
+            </p>
+            <p>
+                11. babcia(X, Y) :-<br />
+                kobieta(X),<br />
+                rodzic(X, Z),<br />
+                rodzic(Z, Y).
+            </p>
+            <p>
+                12. wnuczka(X, Y) :-<br />
+                (babcia(Y, X);dziadek(Y, X)),<br />
+                kobieta(X).
+            </p>
+            <p>
+                13. przodek_do2pokolenia_wstecz(X,Y) :-<br />
+                rodzic(X, Y);<br />
+                (rodzic(X, Z), rodzic(Z, Y)).</p>
+            <p>
+                14. przodek_do3pokolenia_wstecz(X,Y) :-<br />
+                rodzic(X, Y);<br />
+                (rodzic(X, Z), rodzic(Z, Y));<br />
+                (rodzic(X, Z), rodzic(Z, W), rodzic(W, Y)).
+            </p>  
           </ul>
         </details>
     </ul>
